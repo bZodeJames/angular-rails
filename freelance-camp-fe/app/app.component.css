@@ -2,3 +2,26 @@
     margin-top: 15px;
 }
 
+.nav-styles {
+    background-color: #1a1b22;
+}
+
+.nav-styles a {
+    color: #ffffff;
+}
+
+.nav-styles a:hover {
+    color: #c9c9c9;
+}
+
+.nav-link.active {
+    color: #ffa013 !important;
+}
+
+.dropdown a {
+    color: #1a1b22;
+}
+
+.dropdown-menu a:hover {
+    color: #252830;
+}
